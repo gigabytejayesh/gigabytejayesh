@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gigabytejayesh
 - 👀 I’m interested in Coding with NodeJS, Flutter, Angular
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Everything😁
 - 📫 How to reach me, drop a mail on jayesh.wadibhasme@outlook.com
 
 <!---
