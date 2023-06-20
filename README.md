@@ -42,12 +42,9 @@ You can click the Preview link to take a look at your changes.
 
 ## 🏆 My Github Stats:
 <p align="center">
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight) -->
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gigabytejayesh&show_icons=true&theme=tokyonight) -->
 <img src="https://github-readme-stats.vercel.app/api?username=gigabytejayesh&show_icons=true&theme=tokyonight">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=gigabytejayesh&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="gigabytejayesh" />
 </p>
-
 
 ## 📍 Where to find me
 <p><a href="https://github.com/gigabytejayesh/gigabytejayesh" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
