@@ -2,10 +2,10 @@
 
 Welcome to my page!
 
-- 👋 Hi, I’m @gigabytejayesh! You can call me Jayesh 
-- 👀 I’m interested in Coding with **NodeJS**, **Flutter**, **Angular**, **ReactJS**, **Python 3**
+- 👋 Hi, I’m Jayesh 👋
+- 👀 I’m like to Code in **NodeJS**, **Python 3**, **Flutter**
 - 🌱 I’m currently learning Everything 😁
-- 📫 How to reach me, drop a mail on jayesh.wadibhasme@outlook.com
+- 📫 How to reach me, drop a mail on jayeshwadibhasme0697@gmail.com
 
 <!---
 gigabytejayesh/gigabytejayesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
