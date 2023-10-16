@@ -3,8 +3,8 @@
 Welcome to my page!
 
 - 👋 Hi, I’m Jayesh 👋
-- 👀 I’m like to Code in **NodeJS**, **Python 3**, **Flutter**
-- 🌱 I’m currently learning Everything 😁
+- 👀 I like to code in **NodeJS**, **Python 3**, **Flutter**
+- 🌱 I’m currently learning JAVA, ReactJS
 - 📫 How to reach me, drop a mail on jayeshwadibhasme0697@gmail.com
 
 <!---
